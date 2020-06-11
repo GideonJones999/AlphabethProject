@@ -1,0 +1,14 @@
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\AlphabetProject\AlphabetProject\bin\Debug\AlphabetProject.exe.config
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\AlphabetProject\AlphabetProject\bin\Debug\AlphabetProject.exe
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\AlphabetProject\AlphabetProject\bin\Debug\AlphabetProject.pdb
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\AlphabetProject\AlphabetProject\obj\Debug\AlphabetProject.csprojAssemblyReference.cache
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\AlphabetProject\AlphabetProject\obj\Debug\AlphabetProject.csproj.CoreCompileInputs.cache
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\AlphabetProject\AlphabetProject\obj\Debug\AlphabetProject.exe
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\AlphabetProject\AlphabetProject\obj\Debug\AlphabetProject.pdb
+E:\VisualStudio\AlphabetProject\AlphabetProject\bin\Debug\AlphabetProject.exe.config
+E:\VisualStudio\AlphabetProject\AlphabetProject\bin\Debug\AlphabetProject.exe
+E:\VisualStudio\AlphabetProject\AlphabetProject\bin\Debug\AlphabetProject.pdb
+E:\VisualStudio\AlphabetProject\AlphabetProject\obj\Debug\AlphabetProject.csprojResolveAssemblyReference.cache
+E:\VisualStudio\AlphabetProject\AlphabetProject\obj\Debug\AlphabetProject.csproj.CoreCompileInputs.cache
+E:\VisualStudio\AlphabetProject\AlphabetProject\obj\Debug\AlphabetProject.exe
+E:\VisualStudio\AlphabetProject\AlphabetProject\obj\Debug\AlphabetProject.pdb
